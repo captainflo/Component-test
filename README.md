@@ -1,4 +1,4 @@
-# Component-A_D_G_B-E-H
+# Component-A-D-G_B-E-H
 
 **Preview 🖥 📱**
 
