@@ -2,7 +2,7 @@
 
 **Preview 🖥 📱**
 
-> Desktop:
+* Desktop:
 ![Alt text](overview/Desktop.png)
 
 > Ipad Pro:
