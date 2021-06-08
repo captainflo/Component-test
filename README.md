@@ -1,10 +1,11 @@
-# Component-A_D_G_B-E-H
+# Component-A-D-G_B-E-H
 
 **Preview 🖥 📱**
 
 * Desktop:
 
 ![Alt text](overview/Desktop.png)
+
 
 **Attribute Image**
 
