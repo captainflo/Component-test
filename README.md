@@ -2,17 +2,17 @@
 
 **Preview 🖥 📱**
 
-Desktop:
+> Desktop:
 ![Alt text](overview/Desktop.png)
 
-Ipad Pro:
-![Alt text](./overview/Ipad-pro.png)
+> Ipad Pro:
+![Alt text](overview/Ipad-pro.png)
 
-Ipad:
-![Alt text](Ipad.png)
+> Ipad:
+![Alt text](overview/Ipad.png)
 
-Phone: 
-![Alt text](Iphone.png)
+> Phone: 
+![Alt text](overview/Iphone.png)
 
 **Attribute Image**
 
