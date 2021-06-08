@@ -1,0 +1,179 @@
+/*************************** Component-a-d-g ******************************/
+/***********************************************************************/
+/* ===== Title =====*/
+/* =================*/
+.title-component-a-d-g {
+  color: #363c41;
+  font-size: 40px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 38px;
+  text-align: center;
+  font-family: "Roboto";
+  padding-top: 2%;
+  margin-bottom: 43px;
+}
+/* ===== Container Item =====*/
+/* ==========================*/
+.component-a-d-g .item-left-container,
+.component-a-d-g .item-right-container {
+  box-sizing: border-box;
+  min-height: 501px;
+  max-height: auto;
+  width: 100%;
+  border: 1px solid #ebecee;
+  border-radius: 4px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.1);
+  height: 100%;
+}
+
+/* ===== Left Item Body =====*/
+/* ==========================*/
+.component-a-d-g .item-left-body {
+  display: flex;
+  justify-content: space-between;
+  height: 100%;
+  align-items: center;
+}
+
+.component-a-d-g .item-left-img-wrapper {
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.component-a-d-g .item-left-text-wrapper {
+  max-width: 344px;
+  padding: 2rem;
+}
+
+.component-a-d-g .item-left-text-wrapper h1 {
+  font-weight: bold;
+  color: #43484d;
+  font-family: "Roboto";
+  font-size: 26px;
+  letter-spacing: 0;
+  line-height: 29px;
+}
+
+.component-a-d-g .item-left-text-wrapper h1 span {
+  display: block;
+}
+.component-a-d-g .item-left-text-wrapper p {
+  color: #626262;
+  font-family: "Roboto";
+  font-size: 21px;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.component-a-d-g .btn-pricesmart {
+  height: 50px;
+  width: 100%;
+  border-radius: 4px;
+  background-color: #004fa2;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 19px;
+  text-align: center;
+}
+
+.component-a-d-g .link-pricesmart {
+  color: #268aff;
+  font-family: "Roboto";
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 21px;
+}
+
+/* ===== Right Item Body =====*/
+/* ===========================*/
+.component-a-d-g .item-right-body {
+  flex-direction: column;
+}
+
+.component-a-d-g .item-right-img-wrapper {
+  max-width: 600px;
+  max-height: auto;
+}
+
+.component-a-d-g .item-right-img-wrapper img {
+  max-width: 100%;
+  height: auto;
+}
+
+.component-a-d-g .item-right-text-wrapper {
+  padding: 2rem;
+  margin-right: auto;
+}
+
+.component-a-d-g .item-right-text-wrapper h1 {
+  font-weight: bold;
+  color: #43484d;
+  font-family: "Roboto";
+  font-size: 26px;
+  letter-spacing: 0;
+  line-height: 29px;
+}
+
+.component-a-d-g .item-right-text-wrapper p {
+  max-width: 332px;
+  color: #626262;
+  font-family: "Roboto";
+  font-size: 21px;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.component-a-d-g .item-right-text-wrapper a {
+  color: #268aff;
+  font-family: "Roboto";
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -10px;
+}
+
+/*=====Media Query Left Item Body======*/
+
+/* Tablets devices (tablets 1024px and down) */
+@media screen and (max-width: 991px) {
+  /* Left Side */
+  .component-a-d-g .item-left-body {
+    flex-direction: column;
+  }
+  .component-a-d-g .item-left-text-wrapper {
+    max-width: 100%;
+  }
+  .component-a-d-g .item-left-img-wrapper {
+    background-size: cover;
+  }
+}
+/* Extra small devices (phones, 767px and down) */
+@media screen and (max-width: 767px) {
+  .component-a-d-g .item-left-img-wrapper {
+    background-size: cover;
+    height: 350px
+  }
+  /* Right Side */
+  .component-a-d-g .item-right-img-wrapper,
+  .component-a-d-g .item-left-img-wrapper {
+    max-width: 100%;
+  }
+  .component-a-d-g .btn-pricesmart {
+    width: 60%;
+  }
+  .component-a-d-g .item-right-container {
+    margin-top: 20px;
+  }
+}
+
+@media screen and (max-width: 414px) {
+  .component-a-d-g .item-left-img-wrapper {
+    height: 250px
+  }
+}
