@@ -9,13 +9,13 @@ it's the component on the left side (preview image below ⬇️ ).
 
 * Desktop:
 
-![Alt text](overview/desktop.png)
+![Alt text](overview/Desktop.png)
 
 
 
 **live Demo 🎥**
-🏴󠁧󠁢󠁥󠁮󠁧󠁿 : https://pricesmart.com/site/cr/en
-🇪🇸 : https://pricesmart.com/site/cr/es
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 : https://pricesmart.com/site/cr/en
+* 🇪🇸 : https://pricesmart.com/site/cr/es
 
 **Attribute Image**
 🏞 Image Size: 800x600
