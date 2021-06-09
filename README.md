@@ -42,7 +42,3 @@
 **Details ⚠️ About document Type:**
 * No id required for this component nobody like this component because we have 600 line of code link to it....
 We belive one day it will receive the honnor do be like his brother (m,n,o,p....). 😂 
-
- username/ (repo)
-  ├── README.md
-  └── image.svg
