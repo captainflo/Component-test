@@ -1,7 +1,7 @@
 # Component-A
 
 **Infoℹ️**
-This component is the same as Component D and G.
+* This component is the same as Component D and G.
 Usaualy it bellong to Component B, E, H.
 it's the component on the left side (preview image below ⬇️ ).
 
