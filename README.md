@@ -2,8 +2,8 @@
 
 **Info ℹ️:**
 * This component is the same as Component D and G.
-Usaualy it bellong to Component B, E, H.
-it's the component on the left side (preview image below ⬇️ ).
+* Usaualy it bellong to Component B, E, H.
+* it's the component on the left side (preview image below ⬇️ ).
 
 **Preview 🖥:**
 
