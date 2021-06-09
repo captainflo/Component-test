@@ -30,7 +30,7 @@ it's the component on the left side (preview image below ⬇️ ).
 
 **CMS:**
 * Experience Manager ⚙️ : Components -> Banner Products
-* Document Type 📃: Banner Product
+* Document Type 📃: Banner Products
 * Paths 🛣️ for Content structure 📁 🇪🇸: https://www.pricesmart.com/cms/content/path/content/documents/pricesmartaplicacionweb/contenido/marketplace/homepage/vendor-spots/component---a/component-a-default
 * Paths 🛣️ for Content structure 📁 🏴󠁧󠁢󠁥󠁮󠁧󠁿: https://www.pricesmart.com/cms/content/path/content/documents/pricesmartwebapp/content/marketplace/homepage/vendor-spots/component---a/component-a-default
 
